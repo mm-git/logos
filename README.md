@@ -4,9 +4,7 @@ This is a repository for logos, icons and images.
 
 ## logo
 
-- code-house.jp logo
-    This is a code-house.jp logo
-
+- This is a code-house.jp logo
     <img src="logo/codehouse_logo.png?raw=ture" alt="code-house.jp logo" width="200px">
 
 ## License
