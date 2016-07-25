@@ -1,0 +1,21 @@
+{
+  "name": "logos",
+  "version": "1.0.0",
+  "description": "This is a repository for logos, icons and images.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mm-git/logos.git"
+  },
+  "author": "motoyasu <meguro＠code-house.jp> (http://code-house.jp)",
+  "license": "CC-BY-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/mm-git/logos/issues"
+  },
+  "homepage": "https://github.com/mm-git/logos#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.1",
+    "gulp-favicons": "^2.2.6",
+    "require-dir": "^0.3.0"
+  }
+}
